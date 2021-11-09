@@ -1,3 +1,7 @@
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kvrtxtjzo895ghvk56kv" alt="trackgit-views" />
+</a>
+
 monitoring-traffic-trackgit-test
 
 - 1
